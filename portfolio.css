@@ -359,7 +359,7 @@ nav .fa-solid{
     #header {
         background-image: url(images/back2.jpg);
         background-attachment: scroll;
-        background-attachment :fixed;
+        
     }
     .header-text {
         margin-top: 100%;
